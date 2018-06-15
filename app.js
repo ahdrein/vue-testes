@@ -5,6 +5,3 @@ new Vue({
         message: 'Você carregou esta página em ' + new Date().toLocaleString()        
     }
 })
-
-
-
